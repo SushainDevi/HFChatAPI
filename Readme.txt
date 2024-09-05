@@ -1,12 +1,8 @@
- README
-
----
-
 # VeronicaAI Chatbot using Gemini API
 
 Welcome to the VeronicaAI Chatbot project! This chatbot leverages the power of the Gemini API to provide a robust AI assistant, implemented using Streamlit.
 
-# Table of Contents
+## Table of Contents
 
 - [Project Description](#project-description)
 - [Features](#features)
@@ -105,3 +101,4 @@ Contributions are welcome! Follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
