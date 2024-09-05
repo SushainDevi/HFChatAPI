@@ -102,10 +102,3 @@ Contributions are welcome! Follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Citations:
-[1] https://github.com/vercel-labs/gemini-chatbot/blob/main/.env.example
-[2] https://extensions.dev/extensions/googlecloud/firestore-genai-chatbot
-[3] https://cloud.google.com/vertex-ai/generative-ai/docs/model-reference/inference
-[4] https://ai.google.dev/gemini-api/docs
-[5] https://ai.google.dev/api
-[6] https://consent.google.com/ml?cm=2&continue=https%3A%2F%2Fgemini.google.com%2F%3Fhl%3Den-IN&hl=en-IN&pc=bard&src=1
